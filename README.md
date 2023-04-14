@@ -1,7 +1,7 @@
 # Data-Glacier-week5
 ## Deployment on Heroku
 
-I have deployed the Api in Heroku [Click here](https://car-price-prediction-app.herokuapp.com/)
+I have deployed the Api in Heroku 
 
 Heroku is a cloud platform as a service supporting several programming languages
 
@@ -11,4 +11,4 @@ Heroku is a cloud platform as a service supporting several programming languages
 
 * Deploy the branch
 
-![](https://github.com/abishekjames/Data-Glacier-intern-week4/blob/main/static/css/Screenshot.png)
+![](https://github.com/abishekjames/Data-Glacier-week5/blob/main/Screenshot.png)
