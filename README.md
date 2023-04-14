@@ -11,4 +11,6 @@ Heroku is a cloud platform as a service supporting several programming languages
 
 * Deploy the branch
 
+Heroku charges based on usage, so I have deployed the app in Render. [Check it out](https://car-price-prediction-1l3u.onrender.com/)
+
 ![](https://github.com/abishekjames/Data-Glacier-week5/blob/main/Screenshot.png)
